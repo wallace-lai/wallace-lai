@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I like software fundamentals and machine learning algorithms
+### I like software fundamentals and machine learning algorithms
 <!--
 **wallace-lai/wallace-lai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
