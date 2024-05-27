@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I focus on basic software and artificial intelligence fields
+### I focus on software development and machine learning algorithms
 <!--
 **wallace-lai/wallace-lai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
